@@ -47,7 +47,7 @@
   }
   
   .bar.activate {
-    background: #65d84e;
+    background: #40d422;
     transition-property: 0.3s;
     animation: upAndDownScale 1.5s ease-in-out;
   }
@@ -99,13 +99,13 @@
   }
   
   button:hover {
-    background: #f082ac;
+    background: #ec689b;
   }
   
   .select-algorithm {
     display: flex;
     flex-direction: column;
-    background: #ffafcc;
+    background: #f14685;
     padding: 5px;
     margin-bottom: 10px;
     border-radius: 5px;
